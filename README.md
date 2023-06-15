@@ -1,1 +1,1 @@
-# Reccomend Notepad++ for easy copy and paste/editing. 
+# Open in any IDE. Happy Coding
